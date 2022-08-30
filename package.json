@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "tsc --init",
     "start": "webpack serve --config webpack/webpack.config.js --env env=dev --open",
-    "build": "webpack --config webpack/webpack.config.js --env env=prod --open"
+    "build": "webpack --config webpack/webpack.config.js --env env=prod"
   },
   "author": "",
   "license": "ISC",
